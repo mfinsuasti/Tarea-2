@@ -3,397 +3,178 @@
 ## 1. OBJETIVOS 
 ### 1.1 Objetivo General
 Analizar el contenido correspondiente al libro "Principios de circuitos eléctricos" 
-de Thomas L. Floyd, para realizar la resolución de los ejercicios planteados, mediante 
-la comprensión de su contenido. 
+de Thomas L. Floyd del capítulo 3 y capítulo 4, para poder reconocer y realizar la resolución de los ejercicios planteados, mediante la comprensión de su contenido. 
 ### 1.2 Objetivos Específicos
-* Leer y analizar el contenido correspondiente al capitulo 1 y 2 del libro "Principios de circuitos eléctricos" 
-de Thomas L. Floyd. (Sistema internacional de medidas y su relación con la notación científica y de
-ingeniería), (voltaje, corriente, resistencia y su aplicación).
-* Comprender y resumir los capitulos 1 y 2.
-* Resolver los ejercicios planteados pares o impares del capitulo 1 y 2.
+* Leer y analizar el contenido correspondiente al capitulo 3 y 4 del libro "Principios de circuitos eléctricos" 
+de Thomas L. Floyd. (Ley de Ohm), (Energía y pontencia).
+* Comprender y resumir los capitulos 3 y 4.
+* Resolver los ejercicios planteados pares o impares del capitulo 3 y 4.
 ## 2. MARCO TEÓRICO
-![image](https://user-images.githubusercontent.com/116811856/200990671-2d61e483-819f-4f26-823d-4421f5c18606.png)
-![image](https://user-images.githubusercontent.com/116811856/200990743-d365982b-1a1e-4475-9642-8c3a6f84ee5a.png)
-![image](https://user-images.githubusercontent.com/116811856/200990796-7702b7cb-4ce5-4518-aeea-a89aad6dd1dc.png)
-![image](https://user-images.githubusercontent.com/116811856/200990818-165a1db9-6e9b-42ad-9d69-c000c26cde1e.png)
-![image](https://user-images.githubusercontent.com/116811856/200990872-09bdc791-58be-4251-be21-8b3dfbe67824.png)
-![image](https://user-images.githubusercontent.com/116811856/200990922-82a5e1ee-5016-49a0-9daf-5544fe4cc3a2.png)
-![image](https://user-images.githubusercontent.com/116811856/200990967-a0b22e94-ec50-4883-bad3-df32eaaef9f9.png)
-![image](https://user-images.githubusercontent.com/116811856/200991023-b9c9cd09-1840-47ac-86fa-8fccbb59c64a.png)
-![image](https://user-images.githubusercontent.com/116811856/200991120-c66f6268-abf0-470b-896f-23a34d34134c.png)
-![image](https://user-images.githubusercontent.com/116811856/200991170-aa7d3f35-e642-4dda-8e6e-28a457b04619.png)
-![image](https://user-images.githubusercontent.com/116811856/200992004-bdbe0a0b-e84d-46e1-9973-6f7565631cf2.png)
-![image](https://user-images.githubusercontent.com/116811856/200992038-aa230e87-b16b-4ddc-93a4-ba2a811c2cb5.png)
-![image](https://user-images.githubusercontent.com/116811856/200992062-827b5978-cabf-4b83-aa69-170be65ade4f.png)
-![image](https://user-images.githubusercontent.com/116811856/200992097-c55ae2a4-6825-452d-97cd-a096b8655ac2.png)
-![image](https://user-images.githubusercontent.com/116811856/200992141-e06e88f6-06eb-47b0-8078-9155604f3f92.png)
+![image](https://user-images.githubusercontent.com/116811856/202058029-111142cc-d737-4800-9092-85bbca9c7dbe.png)
+![image](https://user-images.githubusercontent.com/116811856/202058086-9206e18d-525f-40ed-853f-39858efc0322.png)
+![image](https://user-images.githubusercontent.com/116811856/202058135-e6d39e40-4700-4eda-8c47-9f8c6ac57bdd.png)
+![image](https://user-images.githubusercontent.com/116811856/202058162-76bb95b6-d6a8-4711-9fa7-4cc90abf96da.png)
+![image](https://user-images.githubusercontent.com/116811856/202058202-ebf0ec28-81cf-425b-b24f-c48954858005.png)
+![image](https://user-images.githubusercontent.com/116811856/202058232-b8b5f4d6-0fc5-44c9-bd4e-6ec61099662c.png)
+![image](https://user-images.githubusercontent.com/116811856/202058270-c0d29c38-c633-4844-9aaf-194e9618f961.png)
+![image](https://user-images.githubusercontent.com/116811856/202058333-e730ee53-fb60-408f-9f7a-8f2d8b4d1cb9.png)
+![image](https://user-images.githubusercontent.com/116811856/202058364-969bf6a2-6992-4cfa-af76-917b62699aa7.png)
+![image](https://user-images.githubusercontent.com/116811856/202058396-210e36b2-31ff-48de-9f97-77d45deb4d84.png)
+![image](https://user-images.githubusercontent.com/116811856/202058425-c8f9e140-4e72-454c-8308-1ed847396ae4.png)
+![image](https://user-images.githubusercontent.com/116811856/202058455-26a108da-62a7-4055-8fa8-07be8267261b.png)
+![image](https://user-images.githubusercontent.com/116811856/202058486-2bf055dc-6dd4-468c-b74c-a0309f41e2bb.png)
+![image](https://user-images.githubusercontent.com/116811856/202058549-151c0867-8cb4-4cb0-bdcb-a106a4e483b0.png)
+![image](https://user-images.githubusercontent.com/116811856/202058589-cf956dc8-0aa5-4ca0-93a7-aed8e83e83d9.png)
+![image](https://user-images.githubusercontent.com/116811856/202058618-9705bc58-a28f-485a-88f9-f9202e5b961f.png)
+
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-### Cápitulo N°1
-### SECCIÓN 1-2 Notación científica
-1. Exprese cada uno de los números siguientes en notación científica:
+### Cápitulo N°3
+### SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 
-(a) 3000 (b) 75,000 (c) 2,000,000
+2 Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 
-a) 3*10^3
+4 Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos
 
-b) 75*10^3
+6 En cierto circuito, I 5 5 mA cuando V 5 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito
 
-c) 2*10^6
+a) V = 1.5V  b) V = 2V  c) V = 3V  d) V = 4V  e) V = 10V
 
-3. Exprese cada uno de los números siguientes en notación científica
+8 Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, 
+rojo, rojo, oro.
 
-(a) 8400 (b) 99,000 (c) 0.2 x 10^6
+10 ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
-a) 8.4*10^3
+![image](https://user-images.githubusercontent.com/116811856/202062773-b57a61aa-438a-4b8f-a6a7-b559fe1ca600.png)
 
-b) 99*10^3
+12 Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
-c) 2*10^5
+14 ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta
 
-5. Exprese cada uno de los números siguientes en notación científica:
+### SECCIÓN 3–2 Cálculo de la corriente
 
-(a) 32 x 10^3 (b) 6800 x 10^-6 (c) 870 x 10^8
+16 Determine la corriente en cada caso:
 
-a) 3.2*10^4
+a) V = 9V, R = 2.7kΩ  b) V = 5.5V, R = 10kΩ  c) V = 40V, R = 68kΩ  d) V = 1kV, R = 2.2kΩ  
 
-b) 6.8*10^-3
+e) V = 66kV, R = 10MΩ
 
-c) 8.7*10^10
+18 Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
-7. Exprese cada uno de los números siguientes como un número decimal regular:
+20 Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código
+de colores es naranja, violeta, amarillo, oro, café.
 
-(a) 2.5 x 10^-6 (b) 5.0 x 10^2 (c) 3.9 x 10^-1
+22 El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito
+si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje
+a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 
-a) 0000025
+### SECCIÓN 3–3 Cálculo de voltaje
 
-b) 500
+24 Calcule el voltaje para cada valor de I y R: 
 
-c) 0.39
+a) I = 1mA, R = 10Ω  b) I = 50mA, R = 33Ω  c) I = 3A, R = 5.6kΩ  d) I = 1.6mA, R = 2.2kΩ 
 
-9. Sume los números siguientes:
+e) I = 250uA, R = 1.0kΩ  f) I = 500mA, R = 1.5MΩ  g) I = 850uA, R = 10MΩ  h) I = 75uA, R = 47kΩ
 
-(a)(9.2 x 10^6)+(3.4 x 10^7)   (b)(5 x 10^3)+(8.5 x 10^-1) (c)(5.6 x 10^-8)+(4.6 x 10^-9)
+26 Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas
 
-a) 4.32*10^7
+![image](https://user-images.githubusercontent.com/116811856/202064121-48e9080b-06a4-4ddc-9c57-d4c81c7163b8.png)
 
-b) 5000.85
 
-c) 6.06*10^-8
+### SECCIÓN 3–4 Cálculo de la resistencia
 
-11. Realice las siguientes multiplicaciones:
+28 Encuentre la resistencia de un reóstato para cada valor de V e I:
 
-(a)(5 x 10^3)(4 x 10^5)   (b)(1.2 x 10^12)(3 x 10^2) (c)(2.2 x 10^-9)(7 x 10^-6)
+a) V = 10V, I = 2A  b) V = 90V, I = 45A  c) V = 50V, I = 5A  d) V = 5.5V, I = 10A  
 
-a) 20*10^8
+e) V = 150V, I = 0.5A
 
-b) 3.6*10^14
+30 Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
-c) 15.4*10^-15
+32 Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un
+amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
 
-### SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
-13. Exprese cada uno de los números siguientes en notación de ingeniería:
+34 Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente
+excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω.
 
-(a) 89,000 (b) 450,000 (c) 12,040,000,000,000
 
-a) 89*10^3
+### SECCIÓN 3–5 Introducción a la localización de fallas
 
-b) 450*10^3
+36 En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 
-c) 12.04*10^12
+![image](https://user-images.githubusercontent.com/116811856/202064688-3e503ba6-3565-406e-9631-b76b44d0d07b.png)
 
-15. Exprese cada número en notación de ingeniería:
+### Cápitulo N°4
+### SECCIÓN 4–1 Energía y potencia
 
-(a) 0.000345 (b) 0.025 (c) 0.00000000129
+2 Demuestre que hay 3.6 x 10^6joules en un kilowatt-hora.
 
-a) 345*10^-6
+4 Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 
-b) 25*10^-3
+6 Convierta las siguientes cantidades en kilowatts:
 
-c) 1.29*10^-9
+(a) 1000 W (b) 3750 W (c) 160 W (d) 50,000 W
 
-17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
+8 Convierta las siguientes cantidades en miliwatts:
 
-(a)(2.5 x 10^-3)+(4.6 x 10^-3)  (b)(68 x 10^6)+(33 x 10^6)  (c)(1.25 x 10^6)+(250 x 10^3)
+(a) 1 W (b) 0.4 W (c) 0.002 W (d) 0.0125 W
 
-a) 7.1*10^-3
+10 Convierta las siguientes cantidades en watts:
 
-b) 101*10^-6
+(a) 1.5 kW (b) 0.5 MW (c) 350 mW (d) 9000uW
 
-c) 1.50*10^6
+12 Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos
+kilowatts-hora de energía consume?
 
-19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
+14 Convierta 5 x 10^6 watts-minutos en kWh.
 
-(a)55 / (2.2 x 10^3)  (b)(5 x 10^3)/(25 x 10^-6)  (c)(560 x 10^3)/(600 x 10^3)
+16 ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir
+25 J?
 
-a) 22.7 *10^-3
+### SECCIÓN 4–2 Potencia en un circuito eléctrico
 
-b) 200*10^6
+18 Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
-c) 848*10^-3
+20 ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
 
-21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico
+22 Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
 
-(a) 0.000345 (b) 0.025 (c) 0.00000000129
+24 Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
 
-a) 345uA
+### SECCIÓN 4–3 Clasificaciones de potencia en resistores
 
-b) 25mA
+26 Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor
+de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga
+que dispone de resistores en todas las clasificaciones de potencia estándar.
 
-c) 1.29nA
+### SECCIÓN 4–4 Conversión de energía y caída de voltaje en una resistencia
 
-23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+28 En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
 
-(a) 3 x 10^-6 F (b) 3.3 x 10^6 Ω (c) 350 x 10^-9A
+![image](https://user-images.githubusercontent.com/116811856/202065877-eed440ff-c600-4753-b54e-0fa9373cf942.png)
 
-a) 3uF
+### SECCIÓN 4–5 Fuentes de potencia
 
-b) 3.3MΩ
+30 Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas
+en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 
-c) 350nA
+32 Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad
+en amperes-hora?
 
-25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
+34 Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
 
-(a) 7.5 pA (b) 3.3 GHz (c) 280 nW
-
-a) 7.5*10^-12A
-
-b) 3.3*10^9Hz
-
-c) 280*10^-9W
-
-### SECCIÓN 1–4 Conversiones de unidades métricas
-27. Realice las conversiones indicadas:
-
-(a) 5 mA a microamperes (b) 3200 mW a miliwatts 
-(c) 5000 kV a megavolts (d) 10 MW a kilowatts 
-
-a) 5000uA
-
-b) 3200mW
-
-c) 5MV
-
-d) 10000kW
-
-29. Sume las siguientes cantidades:
-
-(a) 50mA + 680uA  (b) 120kΩ + 2.2MΩ  (c) 0.02uF + 3300pF
-
-a) 50.68mA
-
-b) 2.32MΩ 
-
-c) 0.0233uF
-
-### Cápitulo N°2
-### SECCIÓN 2–2 Carga eléctrica
-1. ¿Cuál es la carga en coulomb del núcleo de un átomo de cobre?
-
-El átomo de cobre tiene 29 electrones que orbitan el núcleo en cuatro capas
-
-3. ¿Cuántos coulomb de carga poseen 50 x 10 ^31 electrones?
-
-Q= número de electrones / 6.25 x 10^18 electrones
-
-Q =  8 x 10^13 C
-
-### SECCIÓN 2–3 Voltaje, corriente y resistencia
-
-5. Determine el voltaje en cada uno de los siguientes casos:
-
-(a) 10 J/C  (b) 5 J/2C (c) 100 J/25C
-
-a) 10V
-
-b) 2.5V
-
-c) 4V
-
-7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de 
-carga a través de un resistor?
-
-V = J/C
-
-V = 800J/40C
-
-V= 20V -> voltaje usado a través de resistor
-
-9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
-calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
-
-Q=I*t
-
-Q=W/V
-
-I*t=W/V
-
-V=W/I*t
-
-V = 1000/2*15 = 33.3V
-
-11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
-
-I=Q/t
-
-I = 0.6C/3s = 0.2A
-
-13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
-
-Q=I*t 
-
-Q = 1.5A*0.1s = 0.15C
-
-15. Determine la conductancia para cada uno de los siguientes valores de resistencia:
-
-(a) 5Ω   (b) 25Ω  (c) 100Ω  
-
-G=1/R
-
-a) 200uS
-
-b) 40uS
-
-c) 10uS
-
-### SECCIÓN 2–4 Fuentes de voltaje y de corriente
-17. Enliste cuatro fuentes de voltaje comunes.
-
-a) Voltaje alterno
-
-b) Voltaje continuo
-
-c) Voltaje inducido
-
-d) Voltaje de corriente directa
-
-19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
-
-La fuente de potencia convierte al voltaje Ac en voltaje DC, es decir, convierten la energía 
-eléctrica de un tipo a otro utilizando dispositivos electrónicos.
-
-### SECCIÓN 2–5 Resistores
-21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
-
-(a) rojo, violeta, naranja, oro (b) café, gris, rojo, plata
-
-a) 27KΩ +-5%
-
-b) 1.8KΩ +-10%
-
-23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de 
-tolerancia: 330Ω, 2.2kΩ, 56kΩ, 100kΩ, 36kΩ.
-
-a) 330Ω = naranja, naranja, café, oro
-
-b) 2.2kΩ = 2200 k Ω = rojo, rojo, rojo, oro
-
-c) 56kΩ= 56000k Ω= verde, azul, naranja, oro
-
-d) 100kΩ= 100000k Ω = café, negro, amarillo, oro
-
-e) 39kΩ = 39000k Ω = naranja, blanco, naranja, oro
-
-25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que 
-cada resistor tiene una tolerancia del 5 por ciento.
-
-a) 0.47Ω = 470m Ω = amarillo, violeta, plata, oro
-
-b) 270kΩ = rojo, violeta, amarillo, oro
-
-c) 5.1 MΩ = verde, café, verde, oro
-
-27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que 
-cada resistor tiene tolerancia del 1 por ciento
-
-a) 14.7Ω = café, amarillo, violeta, rojo, café
-
-b) 39.2Ω = naranja, blanco, rojo, oro, café
-
-c) 9.76Ω = blanco, violeta, azul, café, cafe
-
-29. ¿Cuál es la resistencia indicada por 4K7?
-
-4.7kΩ
-
-### SECCIÓN 2–6 El circuito eléctrico
-31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2
-
-![image](https://user-images.githubusercontent.com/116811856/201002343-5385020e-9dad-4273-8e5c-addd6138b000.png)
-
-Su trayectoria es através de la lampara 2 como se observa en el gráfico (a)
-
-33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
-
-![image](https://user-images.githubusercontent.com/116811856/201002772-5983f0b7-7163-4e5e-9303-22c516931ec9.png)
-
-En el circuito b es posible encender todas las lamparas al mismo tiempo.
-
-35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y
-VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:
-
-VS1 conectada a R1 y VS2 conectada a R2
-
-o VS1 conectada a R2 y VS2 conectada a R1
-
-![image](https://user-images.githubusercontent.com/116811856/201003009-c74e879d-a967-4fdd-b6f5-3f08bb786bb2.png)
-
-37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
-
-![image](https://user-images.githubusercontent.com/116811856/201003131-88efac0a-25f8-4192-b546-6fa3bea61e6c.png)
-
-39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
-¿En la posición 2?
-
-![image](https://user-images.githubusercontent.com/116811856/201003181-b4fd7de9-c855-4ac7-8375-f4cb421d9f7c.png)
-
-41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
-través del resistor y la que sale de la batería
-
-![image](https://user-images.githubusercontent.com/116811856/201003277-528829c8-bf01-4c86-99b8-7df453cc115f.png)
-
-43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
-
-![image](https://user-images.githubusercontent.com/116811856/201003362-8c11045f-743e-464f-87a9-8814df9dfdea.png)
-
-La lectura del voltaje es de 250V
-
-45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de
-ohmmetro:
-
-(a) manecilla en 2, ajuste de intervalo en x 10
-
-R = 20 Ω
-
-(b) manecilla en 15, ajuste de intervalo en x 100,000
-
-R = 1.5 MΩ
-
-(c) manecilla en 45, ajuste de intervalo en x 100
-
-R = 4500 Ω
-
-47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una
-de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
-
-![image](https://user-images.githubusercontent.com/116811856/201003634-ebbe2b1e-92cc-4d75-95b5-6c1b9054a0a4.png)
-
-Quedaria: 
-
-![image](https://user-images.githubusercontent.com/116811856/201003756-eeb93176-9164-46a7-b62a-9e5016526e37.png)
-
+36 Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 
 ## 4. VIDEO
 
-https://www.youtube.com/watch?v=aDgE8f5A5cc
+
 
 ## 5. CONCLUSIONES
-*Se pudo lograr el correcto entendimiento del contenido del libro correspondiente al cápitulo 1
-y cápitulo 2, a su vez afianzando la relacion que estos tienen para su posterior estudio en el 
+*Se pudo lograr el correcto entendimiento del contenido del libro correspondiente al cápitulo 3
+y cápitulo 4, a su vez afianzando la relacion que estos tienen para su posterior estudio en el 
 transcurso del semestre.
 *Se concentro de manera correcta los conceptos, podiendo diferenciar las relaciones y diferencias
 que tienen las diferentes magnitudes de estudio, asi como el voltaje, la corriente y la resitencia, 
 entre otras, verificando lo aprendido mendiante la resolución de ejercicios planteados.
-poder realizar 
 
 ## 6. BIBLIOGRAFÍA
 Floyd, T. (2007). _Principios de circuitos electricos_ (Octava edi). México: Pearson.
