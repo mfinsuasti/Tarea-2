@@ -166,7 +166,7 @@ en amperes-hora?
 
 ## 4. VIDEO
 
-
+https://youtu.be/jBCBwBAa0fQ
 
 ## 5. CONCLUSIONES
 *Se pudo lograr el correcto entendimiento del contenido del libro correspondiente al cápitulo 3
